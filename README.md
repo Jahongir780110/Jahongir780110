@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **JavaScript Advanced topics, Data structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://www.find-jakhongir.uz/](https://www.find-jakhongir.uz/)
-
 - 📝 I regularly write articles on [https://dev.to/jakhongir](https://dev.to/jakhongir)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Vue.js, Node.js**
