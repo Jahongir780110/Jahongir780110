@@ -2,18 +2,18 @@
 <h3 align="center">Frontend Developer from Tashkent, Uzbekistan</h3>
 
 <div class="image" align="center">
-  <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966"
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
   alt="coding gif"
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
 
-- 🔭 I’m currently working as a **Frontend Developer at EPAM Systems**
+- 🔭 I’m currently student at **Saarland University**
 
-- 🌱 I’m currently learning **JavaScript Advanced topics, Data structures and Algorithms**
+- 🌱 I’m currently learning **Data Networks, Data Structures and Algorithms**
 
 - 📝 I regularly write articles on [https://dev.to/jakhongir](https://dev.to/jakhongir)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Vue.js, Node.js**
+- 💬 Ask me about **JavaScript, AWS, Vue.js, Node.js**
 
 - 📫 How to reach me **jahongir780110@gmail.com**
 
